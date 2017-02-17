@@ -12,3 +12,18 @@ Short term goals
 Long Term Goals
 - Indicator UI, auto trading on indicators
 - Muuuuuuwn Rich.
+
+
+
+## Build Log
+
+Express generator frame, socket injected.
+
+Bitmex and Bitfinex exchanges added to begin with, more to be.
+
+Curerently just logging data, but will get a shiney front end.
+
+TODO: Needs a multi exchange interface so normalise results, ease data cleansing and usage
+TODO: Front End.
+TODO: Dip detection.
+TODO: sentiment and inertia metrics.
