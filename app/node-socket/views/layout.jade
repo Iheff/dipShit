@@ -1,0 +1,16 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    block content
+  script(src="/socket.io/socket.io.js")
+  script.
+    var socket = io('//localhost:3000');
+    socket.on('bitmex', function (data) {
+      console.log({"bitmex":data});
+    });	
+    socket.on('bitfinex', function (data) {
+      console.log({"bitfinex":data});
+    });	
