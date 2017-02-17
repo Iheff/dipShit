@@ -2,7 +2,7 @@
 
 Need to take emoption out of your trading patterns, rest easy dipShit will help you.
 
-Developed from scratch.
+Developed from scratch, for personal usage  - fork at will, if usefull to you - My private key logger is ready to go!
 
 
 Short term goals
