@@ -4,6 +4,7 @@ Need to take emotion out of your trading patterns? rest easy, dipShit will help 
 
 Developed from scratch, for personal usage  - fork at will, if usefull to you - My private key logger is ready to go!
 
+Please fix keys.js filename to be 'keys.js' and inpiut your API keys.
 
 Short term goals
 - Basic dip anticipator and estimater
