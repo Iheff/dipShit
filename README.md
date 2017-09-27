@@ -1,6 +1,6 @@
-# Hey dipShit, let's trade.
+# Hey, let's trade.
 
-Need to take emotion out of your trading patterns? rest easy, dipShit will help you.
+Need to take emotion out of your trading patterns? rest easy, dipSpot will help you.
 
 Developed from scratch, for personal usage  - fork at will, if usefull to you - My private key logger is ready to go!
 
